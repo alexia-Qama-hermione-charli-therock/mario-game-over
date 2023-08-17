@@ -1,0 +1,20 @@
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+.bigImage {
+    width: 100%;
+}
+
+body {
+    background-color: #c80000;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    border-radius: 200px;
+}
